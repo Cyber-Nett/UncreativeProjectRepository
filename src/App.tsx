@@ -25,7 +25,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Find out about me on my <a href='https://github.com/CyberNett'>github page</a>
+        Find out about me on my <a href='https://github.com/Cyber-Nett'>github page</a>
       </p>
     </div>
   )
