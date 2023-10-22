@@ -1,0 +1,10 @@
+body{
+    font-family: "Times New Roman", Times, serif;
+    background-image: url('space.jpg');
+    
+}
+
+.button{
+    align: center;
+    padding: 30 px;
+}
