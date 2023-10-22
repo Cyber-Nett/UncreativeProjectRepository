@@ -10,6 +10,7 @@
       {
         "nested-interactive": "off"
       }
-    ]
+    ],
+    "typescript-config/is-valid": "off"
   }
 }
